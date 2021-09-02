@@ -6,4 +6,4 @@
 
 ---
 
-!['select.gif'](./data/select.mp4)
+!['select.gif'](./data/select.gif)
