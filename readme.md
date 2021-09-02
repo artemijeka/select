@@ -5,3 +5,5 @@
 >*02.09.2021*
 
 ---
+
+!['select.gif'](./data/select.gif)
