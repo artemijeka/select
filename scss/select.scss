@@ -15,9 +15,6 @@
   // scrollbar-width: none;
 
   position: relative;
-  &.--m15 {
-    margin: 15px;
-  }
   &__btn {
     background-image: url(../img/select.svg);
     display: inline-block;
